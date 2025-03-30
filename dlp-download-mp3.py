@@ -153,6 +153,3 @@ if __name__ == "__main__":
     # Add tags to all tracks
     set_track_tags(album_info)
 
-
-
-
